@@ -1,0 +1,26 @@
+/* 
+Theme: Social Media Web App;
+Author: Web Developer;
+Version: 1.0;
+*/
+.main-content {
+  background-color: #eff2f6;
+}
+
+.a-link {
+  text-decoration: none;
+  color: black;
+}
+
+.a-link:hover {
+  color: #1fc39a;
+}
+
+.a-link-active {
+  text-decoration: none;
+  color: #1fc39a;
+}
+
+.a-link-active:hover {
+  color: #16715b;
+}
